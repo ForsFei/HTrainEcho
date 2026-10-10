@@ -1,0 +1,2 @@
+id,name,from,to,geometry,km,directions,source
+seg-a-b,A—B,station-a,station-b,"[[0,0],[0.01,0.01]]",1.5,"[""往 B 站"",""往 A 站""]",自行核验拓扑

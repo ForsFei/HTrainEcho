@@ -1,0 +1,2 @@
+id,scope,pointId,trainId,time,direction,type,note,createdAt
+observation-1,manual,point-1,train-1,2026-10-08T10:04:00+08:00,往 B 站方向,passenger,仅作模板示例,2026-10-08T10:05:00+08:00

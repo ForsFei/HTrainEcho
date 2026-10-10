@@ -1,0 +1,10 @@
+node_modules/
+.next/
+data/
+.env*
+!.env.example
+*.log
+*.tsbuildinfo
+task_plan.md
+progress.md
+findings.md
